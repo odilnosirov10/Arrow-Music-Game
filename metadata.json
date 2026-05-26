@@ -1,0 +1,6 @@
+{
+  "name": "Arrow Game",
+  "description": "An interactive rhythmic and reaction-based arrow-matching game with multiple arcade modes, local high scores, and customizable settings.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
